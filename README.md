@@ -5,14 +5,14 @@ Flask template utilizing application factories and blueprints.
 
 ## Usage
 
-Install the requirements using [pipenv](https://pypi.org/project/pipenv/).
+Install the requirements from `requirements.txt` with pip.
 
 ```
-pipenv install
+pip install -r requirements.txt
 ```
 
 Run the application.
 
 ```
-pipenv run flask run
+flask run
 ```
