@@ -2,7 +2,6 @@
 
 Flask template utilizing application factories and blueprints.
 
-
 ## Usage
 
 Install the requirements from `requirements.txt` with pip.
@@ -15,4 +14,10 @@ Run the application.
 
 ```
 flask run
+```
+
+Run tests.
+
+```
+pytest
 ```
